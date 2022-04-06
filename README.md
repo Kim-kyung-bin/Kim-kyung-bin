@@ -13,10 +13,18 @@
 
 - Back-end : 
 <span><img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></span>
+
+
+
+
+- Data-Base : 
 <span><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/tibero-8cebd6?style=for-the-badge"></span>
 
 - Version Control :<span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><span>
 <span><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><span>
+<span><img src="https://img.shields.io/badge/Tortoise svn-308af2?style=for-the-badge"></span>
