@@ -9,7 +9,7 @@
 <span><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></span>
 <span><img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></span>
-
+<span><img src="https://img.shields.io/badge/Cesium.js-308af2?style=for-the-badge"></span>
 
 - Back-end : 
 <span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"></span>
